@@ -106,6 +106,28 @@ Full-stack AI-powered resume builder with multiple templates, drag-and-drop reor
   <a href="https://github.com/arush077" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://leetcode.com/u/arushshetty07/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/arushshetty07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+</div>
+
+<br>
+
+## **🧩 Coding Profiles**
+
+<div align="center">
+  <a href="https://leetcode.com/u/arushshetty07/">
+    <img src="https://leetcard.jacoblin.cool/arushshetty07?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://codeforces.com/profile/arushshetty07">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=arushshetty07" alt="Codeforces Stats"/>
+  </a>
 </div>
 
 <br>
