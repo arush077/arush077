@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Arush 👋
 
-<!--
-**arush077/arush077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | BITS Pilani
 
-Here are some ideas to get you started:
+I enjoy building scalable full-stack applications and solving algorithmic problems. I'm interested in backend systems, AI-powered developer tools, and distributed software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- AI Resume Analyzer
+- Personal Portfolio
+
+## 🛠 Tech Stack
+
+**Languages**
+C++, Java, Python
+
+**Frontend**
+React, HTML, CSS
+
+**Backend**
+Node.js, FastAPI, REST APIs
+
+**Databases**
+MongoDB, MySQL
+
+**Tools**
+Git, GitHub
+
+## 📫 Connect
+
+- Portfolio: https://arushshetty07.netlify.app
+- LinkedIn: https://linkedin.com/in/your-link
