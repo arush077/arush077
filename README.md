@@ -83,6 +83,20 @@ Full-stack AI-powered resume builder with multiple templates, drag-and-drop reor
 
 <br>
 
+## **🧩 Coding Profiles**
+
+<div align="center">
+  <a href="https://leetcode.com/u/arushshetty07/">
+    <img src="https://leetcard.jacoblin.cool/arushshetty07?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arush077&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</div>
+
 ## **🤝 Connect With Me**
 
 <div align="center">
@@ -101,18 +115,3 @@ Full-stack AI-powered resume builder with multiple templates, drag-and-drop reor
 </div>
 
 <br>
-
-## **🧩 Coding Profiles**
-
-<div align="center">
-  <a href="https://leetcode.com/u/arushshetty07/">
-    <img src="https://leetcard.jacoblin.cool/arushshetty07?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arush077&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-  <p>Made with ❤️ by <strong>Arush Shetty</strong></p>
-</div>
