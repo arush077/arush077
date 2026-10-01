@@ -124,12 +124,6 @@ Full-stack AI-powered resume builder with multiple templates, drag-and-drop reor
   </a>
 </div>
 
-<div align="center">
-  <a href="https://codeforces.com/profile/arushshetty07">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=arushshetty07" alt="Codeforces Stats"/>
-  </a>
-</div>
-
 <br>
 
 <div align="center">
