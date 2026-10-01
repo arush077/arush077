@@ -62,6 +62,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge" alt="Groq API">
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-6E56CF?style=for-the-badge" alt="Multi-Agent Systems">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
 </p>
 
 ### **Tools & Version Control:**
