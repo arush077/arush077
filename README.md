@@ -83,20 +83,6 @@ Full-stack AI-powered resume builder with multiple templates, drag-and-drop reor
 
 <br>
 
-## **📊 GitHub Analytics**
-
-<div align="center">
-  <a href="https://github.com/arush077">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arush077&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arush077&theme=radical" alt="GitHub Streak">
-</div>
-
-<br>
-
 ## **🤝 Connect With Me**
 
 <div align="center">
@@ -111,9 +97,6 @@ Full-stack AI-powered resume builder with multiple templates, drag-and-drop reor
   </a>
   <a href="https://leetcode.com/u/arushshetty07/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://codeforces.com/profile/arushshetty07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
 </div>
 
